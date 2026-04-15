@@ -103,7 +103,7 @@ export default function Home() {
         zIndex: 0,
       }}>
         <Image
-          src="/banda.jpg"
+          src="https://res.cloudinary.com/djhwpne8h/image/upload/v1776209618/banda_ezvktf.jpg"
           alt="El Domingo Eterno"
           fill
           priority
