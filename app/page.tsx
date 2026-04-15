@@ -12,19 +12,19 @@ const LINKS = [
   },
   {
     label: "EP Sesiones Crepusculares Vol. I",
-    sub: "escuchar en Spotify",
+    sub: "escuchalo en Spotify",
     href: "https://open.spotify.com/intl-es/album/1SWa0tVCFaGPirFB7vGVXS?si=9siB6XGBTaifX7ln1YVUBQ",
     icon: "spotify",
   },
   {
     label: "EP La Memoria",
-    sub: "escuchar en Spotify",
+    sub: "escuchalo en Spotify",
     href: "https://open.spotify.com/intl-es/album/7GDT28NSRE7Dgj3ZBUCHUv?si=MQn1gwVoRECZaOfXaqLsGg",
     icon: "spotify",
   },
   {
     label: "EP La Caída",
-    sub: "escuchar en Spotify",
+    sub: "escuchalo en Spotify",
     href: "https://open.spotify.com/intl-es/album/2Nsqo0OnvNOXZ2gbWjuEJZ?si=5Y7oFFhHQlCeAzbvtBW3tA",
     icon: "spotify",
   },
